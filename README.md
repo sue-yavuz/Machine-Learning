@@ -1,11 +1,11 @@
-## Machine-Learning
+# Machine-Learning
 
-# Lesson Plan 
+## Lesson Plan 
 Custodian : Orion-Instructor (orion@clarusway.com)
 In class-session : 21 Sessions / 63 Hours
 Lab Sessions : 5 Labs / 5 Hours
 
-# Certification Requirements
+### Certification Requirements
 1. %70 Attendance
 2. Succecfully complete and submits assingments & projects 
 
